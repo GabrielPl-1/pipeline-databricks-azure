@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-gabriel",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1a501216-e34c-44a6-8cc0-5f11e252dbbf",
+		"tenantId": "489d240b-302a-44cc-826e-4b3067cb8806"
+	}
+}
